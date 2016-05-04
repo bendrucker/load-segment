@@ -36,7 +36,7 @@
   "dependencies": {
     "ap": "~0.2.0",
     "assert-ok": "~1.0.0",
-    "lazy-async": "~1.0.0",
+    "lazy-async": "~1.0.1",
     "load-script-global": "~1.0.1"
   }
 }
