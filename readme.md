@@ -1,4 +1,4 @@
-# load-segment [![Build Status](https://travis-ci.org/bendrucker/load-segment.svg?branch=master)](https://travis-ci.org/bendrucker/load-segment)
+# load-segment [![Build Status](https://travis-ci.org/bendrucker/load-segment.svg?branch=master)](https://travis-ci.org/bendrucker/load-segment) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/load-segment.svg)](https://greenkeeper.io/)
 
 > Load Segment's analytics.js library asynchronously with method queueing
 
